@@ -2,7 +2,7 @@
 
 A minimalistic theme that I use for my zsh + iTerm2.
 
-![zkrang screenshot](themes/zkrang.png)
+![zkrang screenshot](images/zkrang.png)
 
 Further configuration:
   * [Cobalt2 color schemes](http://iterm2colorschemes.com/)
